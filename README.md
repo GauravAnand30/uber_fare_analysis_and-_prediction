@@ -21,6 +21,9 @@ This project focuses on predicting Uber fare prices based on various features an
   - Pandas
   - Matplotlib
   - Seaborn
+ 
+## Screenshots
+
 
 ## Getting Started
 
@@ -39,8 +42,16 @@ This project focuses on predicting Uber fare prices based on various features an
 2. Install the required packages:
    ```
    pip install -r requirements.txt
+   
 
 3. start the Streamlit application:
    ```
    streamlit run app.py
+
+
+## Usage
+- Upload Data: Click on the 'Upload CSV' button to upload your data file.
+- View Data: The uploaded data will be displayed in a sorted table format.
+- Key Insights: The application will show the ten most important results from each column.
+- Predict Fare: Use the prediction feature to estimate Uber fare prices based on the data.
    
