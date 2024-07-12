@@ -32,6 +32,15 @@ This project focuses on predicting Uber fare prices based on various features an
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/uber-fare-prediction.git
    cd uber-fare-prediction
+
+2. Install the required packages:
+   ```
+   pip install -r requirements.txt
+
+3. start the Streamlit application:
+   ```
+   streamlit run app.py
+   
