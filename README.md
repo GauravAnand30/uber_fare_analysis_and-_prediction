@@ -23,7 +23,11 @@ This project focuses on predicting Uber fare prices based on various features an
   - Seaborn
  
 ## Screenshots
+![](https://github.com/GauravAnand30/uber_fare_analysis_and-_prediction/blob/main/Screenshots/Screenshot%202024-07-12%20220006.png)
 
+![](https://github.com/GauravAnand30/uber_fare_analysis_and-_prediction/blob/main/Screenshots/Screenshot%202024-07-12%20220110.png)
+
+![](https://github.com/GauravAnand30/uber_fare_analysis_and-_prediction/blob/main/Screenshots/Screenshot%202024-07-12%20220356.png)
 
 ## Getting Started
 
